@@ -1,0 +1,20 @@
+{
+    "name": "birdy-app",
+    "version": "1.0.0",
+    "description": "Flappy bird dedication",
+    "main": "index.js",
+    "scripts": {
+      "start": "live-server"
+    },
+    "keywords": [],
+    "author": "Alex Bain",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.3",
+      "live-server": "^1.2.1"  
+    },
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
+  
